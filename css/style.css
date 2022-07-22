@@ -1,0 +1,13 @@
+.display{
+    width: 100%;
+}
+.display img {
+    width: 20%;
+    height: 150px;
+}
+.Heading{
+    font-size: 70px;
+}
+table tr,th,td{
+    border: 1px solid black ;
+}
